@@ -3,7 +3,7 @@
     {
       "text": "If it hurts, do it more often",
       "id": "47145",
-      "votes": 0
+      "votes": 2
     },
     {
       "text": "Adding manpower to a late software project makes it later!",
@@ -28,12 +28,12 @@
     {
       "text": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
       "id": "98312",
-      "votes": 0
+      "votes": 1
     },
     {
-      "text": "If it dies, it dies.",
-      "votes": 0,
-      "id": "V-ZcLNO"
+      "text": "If it dies, it dies",
+      "id": "V-ZcLNO",
+      "votes": 5
     }
   ]
 }

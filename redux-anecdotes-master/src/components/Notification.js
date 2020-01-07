@@ -8,8 +8,6 @@ const Notification = (props) => {
     borderWidth: 1
   }
 
-  console.log(props)
-
   if(props.notification !== null) {
     return (
       <div>
